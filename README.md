@@ -52,4 +52,4 @@ cd frontend
 npm install
 npm start
 
-The client application will typically open in your browser at http://localhost:3000, and will connect to the backend running on http://localhost:8080.
+The client application will typically open in your browser at https://jwt-mern-authentication-ui.vercel.app/login , and will connect to the backend running on https://jwt-mern-authentication-api.vercel.app/.
